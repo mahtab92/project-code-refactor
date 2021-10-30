@@ -1,6 +1,7 @@
 # project-code-refactor
 Refactor the current code to improve it, without changing what it does.
 
+change the title to sommething else.
 
 on Html <div class: "header"> change it to <header> Html line 11, and 26
 on css change the .header to header{}  css line 11,18,23,27,35, 39.
