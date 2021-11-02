@@ -48,8 +48,9 @@ we delete the < div class= "footer">
 we put `<footer> ` line 74, 79 on HTML..
    ` <h2> made with ...`
     `</footer>`
-```
+
     on css we use: line 129,136.
     footer {}
         footer h2{}
-    
+         -->
+![](project-page.png)
