@@ -49,3 +49,4 @@ we put <footer>  line 74, 79 on HTML..
     on css we use: line 129,136.
     footer {}
         footer h2{}
+        
